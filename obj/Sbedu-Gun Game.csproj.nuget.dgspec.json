@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\Sbedu_Gun_Game\\Sbedu-Gun Game.csproj": {}
+    "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\C# Mod Examples\\Sbedu-Gun Game.csproj": {}
   },
   "projects": {
-    "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\Sbedu_Gun_Game\\Sbedu-Gun Game.csproj": {
+    "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\C# Mod Examples\\Sbedu-Gun Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\Sbedu_Gun_Game\\Sbedu-Gun Game.csproj",
+        "projectUniqueName": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\C# Mod Examples\\Sbedu-Gun Game.csproj",
         "projectName": "Sbedu_GunGame",
-        "projectPath": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\Sbedu_Gun_Game\\Sbedu-Gun Game.csproj",
+        "projectPath": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\C# Mod Examples\\Sbedu-Gun Game.csproj",
         "packagesPath": "C:\\Users\\Sbedu\\.nuget\\packages\\",
-        "outputPath": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\Sbedu_Gun_Game\\obj\\",
+        "outputPath": "C:\\EFT Modificato\\Modifica Mods\\ClientModdingExamples-main\\C# Mod Examples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sbedu\\AppData\\Roaming\\NuGet\\NuGet.Config",
