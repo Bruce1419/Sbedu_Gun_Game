@@ -1,25 +1,3 @@
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Sbedu_GunGame.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Sbedu_GunGame.pdb
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Aki.Common.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Aki.Reflection.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Assembly-CSharp.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\BepInEx.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\bsg.console.core.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Comfort.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Newtonsoft.Json.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.AudioModule.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.CoreModule.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.InputLegacyModule.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.InputModule.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.AssemblyReference.cache
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.GeneratedMSBuildEditorConfig.editorconfig
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.AssemblyInfoInputs.cache
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.AssemblyInfo.cs
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.CoreCompileInputs.cache
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.CopyComplete
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu_GunGame.dll
-C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu_GunGame.pdb
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\bin\Debug\net472\Sbedu_GunGame.dll
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\bin\Debug\net472\Sbedu_GunGame.pdb
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\bin\Debug\net472\Aki.Common.dll
@@ -42,3 +20,25 @@ C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\obj\De
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\obj\Debug\net472\Sbedu-Gun Game.csproj.CopyComplete
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\obj\Debug\net472\Sbedu_GunGame.dll
 C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\Sbedu_Gun_Game\obj\Debug\net472\Sbedu_GunGame.pdb
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Sbedu_GunGame.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Sbedu_GunGame.pdb
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Aki.Common.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Aki.Reflection.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Assembly-CSharp.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\BepInEx.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\bsg.console.core.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Comfort.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\Newtonsoft.Json.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.AudioModule.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.CoreModule.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.InputLegacyModule.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\bin\Debug\net472\UnityEngine.InputModule.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.AssemblyReference.cache
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.AssemblyInfoInputs.cache
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.AssemblyInfo.cs
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.CoreCompileInputs.cache
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu-Gun Game.csproj.CopyComplete
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu_GunGame.dll
+C:\EFT Modificato\Modifica Mods\ClientModdingExamples-main\C# Mod Examples\obj\Debug\net472\Sbedu_GunGame.pdb
