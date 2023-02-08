@@ -71,7 +71,6 @@ namespace Sbedu_Gun_Game
                                     //Logger.LogWarning("Taking weapon of: " + item.Id);
                                     if (configIsSwapEnable.Value && killedGuy.HandsController.Item is Weapon)
                                     {
-                                        bool reloaded = false;
                                         if (configIsReloadEnable.Value)
                                         {
                                             try
@@ -87,11 +86,8 @@ namespace Sbedu_Gun_Game
                                         }
                                         try
                                         {
-                                            if (reloaded)
-                                            {
                                                 gamePlayer.SetInHands((Weapon)item.HandsController.Item, null);
                                                 swapped = true;
-                                            }
                                         } //Take enemy weapon
                                         catch (System.Exception e) { Logger.LogWarning("Error swap: " + e); }
                                     }
